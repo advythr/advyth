@@ -7,8 +7,10 @@ I completed my Bachelor of Science in Biology at the University of California–
 - [Twitter](https://twitter.com/advythr)
 - [LinkedIn](https://www.linkedin.com/in/advyth-ramachandran/)
 
-## Earth/Environmental Data Science
+## Earth/Environmental Data Science Portfolio
 At CU, I am taking the Earth Analytics Bootcamp course. I am excited to learn about open and reproducible science, automating workflows using Python, and effective project management and digital collaboration. Using Earth Data Science, I hope to understand the structure and diversity of urban forests from remote sensing data.
+
+[Seattle temperature analysis](notebooks/ncei_seattle.html)
 
 ## Research Interests
 - community assembly

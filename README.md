@@ -1,2 +1,2 @@
-# advyth.github.io
+# advythr.github.io
 Portfolio website for Advyth Ramachandran.

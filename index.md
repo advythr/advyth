@@ -10,7 +10,8 @@ I completed my Bachelor of Science in Biology at the University of California–
 ## Earth/Environmental Data Science Portfolio
 At CU, I am taking the Earth Analytics Bootcamp course. I am excited to learn about open and reproducible science, automating workflows using Python, and effective project management and digital collaboration. Using Earth Data Science, I hope to understand the structure and diversity of urban forests from remote sensing data.
 
-[Seattle temperature analysis](notebooks/ncei_seattle.html)
+- [Seattle temperature analysis](notebooks/ncei_seattle.html)
+- [Coyote River, San Jose flooding analysis](notebooks/sanjose_flood.html)
 
 ## Research Interests
 - community assembly

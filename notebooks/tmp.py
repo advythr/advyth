@@ -1,3 +1,7 @@
-# Compute Celcius temperatures
-sea_temp_df['temperature_c'] = (sea_temp_df['temperature_f'] - 32) * 5 / 9
-sea_temp_df
+import subprocess
+from io import BytesIO
+
+import folium
+import hvplot.pandas
+import pandas as pd
+import requests
